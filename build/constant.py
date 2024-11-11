@@ -1,0 +1,1 @@
+'manual_rule': r"%s/organizations/(?P<organization_id>[^/]+)/resources_update_by_pools",
